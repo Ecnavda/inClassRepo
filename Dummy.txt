@@ -1,0 +1,9 @@
+Modified
+
+More code files here
+
+<--- Notice the yellow
+It signifies change
+
+It turned to green once I saved it
+These additions are now yellow
